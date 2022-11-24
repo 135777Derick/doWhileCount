@@ -56,3 +56,25 @@ int main() {
    
     return 0;
 }
+
+
+
+
+code 4
+   #include <iostream>
+using namespace std;
+
+int main() {
+   int num, sum;
+   
+   do
+   {
+      cout<<"Enter integers\n";
+      cin>>num; 
+      sum +=num;
+     
+   }
+   while(num != 0);
+   cout<<"Sum of the numbers is"<<sum;
+    return 0;
+}
