@@ -97,3 +97,20 @@ int main() {
    cout<<sum;
     return 0;
 }
+
+
+
+
+
+//code 6
+#include <iostream>
+using namespace std;
+
+int main() {
+    int sum,count;
+   for(int count=12; count<=28; count+=2){
+      cout<<count;
+   }
+   
+    return 0;
+}
