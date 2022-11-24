@@ -78,3 +78,21 @@ int main() {
    cout<<"Sum of the numbers is"<<sum;
     return 0;
 }
+
+
+
+
+
+
+code 5
+   #include <iostream>
+using namespace std;
+
+int main() {
+    int sum,count;
+   for(int count=20; count<=25; count++){
+       sum+=count;
+   }
+   cout<<sum;
+    return 0;
+}
