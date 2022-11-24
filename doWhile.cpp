@@ -35,3 +35,24 @@ int main() {
    
     return 0;
 }
+
+
+
+
+
+code 3
+  #include <iostream>
+using namespace std;
+
+int main() {
+   int num =12;
+   cout<<"This are even numbers between 12 and 50\n";
+   do
+   {
+       cout<< num ;
+       num +=2;
+   }
+   while(num <= 50);
+   
+    return 0;
+}
