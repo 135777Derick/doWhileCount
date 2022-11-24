@@ -17,7 +17,8 @@ int main() {
 
 
 
-// code 2
+// code 2 do while
+
 #include <iostream>
 using namespace std;
 
@@ -40,7 +41,7 @@ int main() {
 
 
 
-code 3
+//code 3 do while
   #include <iostream>
 using namespace std;
 
@@ -60,7 +61,7 @@ int main() {
 
 
 
-code 4
+//code 4 do while
    #include <iostream>
 using namespace std;
 
@@ -84,7 +85,7 @@ int main() {
 
 
 
-code 5
+//code 5 for loop
    #include <iostream>
 using namespace std;
 
